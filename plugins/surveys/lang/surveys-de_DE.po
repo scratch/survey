@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Surveys Wordpress Plugin\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-10-20 11:45+0530\n"
+"Last-Translator: Binny V A <binnyva@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;e;t\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys\n"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:6
+msgid "Survey Updated"
+msgstr "Umfrage aktualisiert"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:17
+msgid "Survey Deleted"
+msgstr "Umfrage gelöscht"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:22
+msgid "Manage Survey"
+msgstr "Umfrage verwalten"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:32
+msgid "ID"
+msgstr "ID"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:33
+msgid "Title"
+msgstr "Titel"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:34
+msgid "Questions"
+msgstr "Fragen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:35
+msgid "Responses"
+msgstr "Antworten"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:36
+msgid "Code"
+msgstr "Code"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:37
+msgid "Created on"
+msgstr "Angelegt am"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:38
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:87
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:32
+msgid "Action"
+msgstr "Aktion"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:63
+msgid "Manage Questions"
+msgstr "Fragen verwalten"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:64
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:109
+msgid "Edit"
+msgstr "Ändern"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:65
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:110
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:65
+msgid "Delete"
+msgstr "Löschen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:72
+msgid "No Surveys found."
+msgstr "Keine Umfragen gefunden."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey.php:80
+msgid "Create New Survey"
+msgstr "Neue Umfrage anlegen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey_form.php:15
+msgid " Survey"
+msgstr " Umfrage"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey_form.php:25
+msgid "Survey Name"
+msgstr "Name der Umfrage"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey_form.php:31
+msgid "Description"
+msgstr "Beschreibung"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey_form.php:37
+msgid "Status"
+msgstr "Status"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/survey_form.php:50
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question_form.php:125
+msgid "Save"
+msgstr "Speichern"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:32
+msgid "Question updated."
+msgstr "Frage aktualisiert."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:37
+msgid "Question added."
+msgstr "Frage hinzugefügt."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:57
+msgid "New survey added"
+msgstr "Neu Umfrage hinzugefügt"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:65
+msgid "Question deleted."
+msgstr "Frage gelöscht."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:72
+msgid "Manage Questions in "
+msgstr "Fragen verwalten von"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:79
+msgid "To add this survey to your blog, insert the HTML comment "
+msgstr "Um diese Umfrage in einem beliebigen Blogpost anzuzeigen, fügen Sie bitte den HTML-Code ein."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:79
+msgid "into any post."
+msgstr "in einen beliebigen Blogpost."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:85
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question_form.php:83
+msgid "Question"
+msgstr "Frage"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:86
+msgid "Number Of Answers"
+msgstr "Anzahl der Antworten"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:117
+msgid "No questions found."
+msgstr "Keine Frage gefunden"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:126
+msgid "Create New Question"
+msgstr "Neue Frage anlegen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question.php:127
+msgid "Show Responses"
+msgstr "Antworten zeigen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/options.php:18
+msgid "Number of questions per page. If 0, all the questions will be shown in a single page"
+msgstr "Anzahl der Fragen pro Seite. Bei '0' werden alle Fragen auf einer Seite angezeigt."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/options.php:21
+msgid "Send all survey results by email"
+msgstr "Alle Umfrageergebnisse per Email senden."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/options.php:29
+msgid "Save Options"
+msgstr "Einstellungen speichern"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_individual_response.php:9
+msgid "Response to "
+msgstr "Antwort zu"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_individual_response.php:11
+msgid "By "
+msgstr "Von"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_individual_response.php:13
+msgid " On "
+msgstr "Am"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_individual_response.php:31
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:69
+msgid "Answer: "
+msgstr "Antwort:"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question_form.php:21
+msgid " Question"
+msgstr " Fragen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question_form.php:89
+msgid "Answers"
+msgstr "Antworten"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question_form.php:100
+msgid "Add New Answer"
+msgstr "Neue Frage hinzufügen."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question_form.php:102
+msgid "Allow User Inputed Answers"
+msgstr "Benutzerbespezifische Anworten zulassen."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question_form.php:105
+msgid "User Answer Format"
+msgstr "Format der benutzerspezifischen Antwort."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question_form.php:114
+msgid "Allow Multiple Answers"
+msgstr "Mehrere Antworten zulassen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/question_form.php:127
+msgid "Go to Questions Page"
+msgstr "Zu den Fragen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/export_choose.php:5
+msgid "Export Data"
+msgstr "Daten exportieren."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/export_choose.php:8
+msgid "Select the fields you want to export..."
+msgstr "Wählen Sie die Felder für den Export aus."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/export_choose.php:20
+msgid "Export"
+msgstr "Export"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:6
+#, php-format
+msgid "Please go to <a href='%s'>%s</a> to view the survey"
+msgstr "Gehen Sie bitte auf die Seite <a href='%s'>%s</a> um die Umfrage zu betrachten."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:16
+msgid "Thanks for taking the survey. Your details have been saved."
+msgstr "Vielen Dank, dass Sie an der Umfrage teilgenommen haben. Ihre Antworten wurden gespeichert."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:51
+#, php-format
+msgid ""
+"Hi,\n"
+"There is a new result for the survey at %s...\n"
+msgstr ""
+"Hallo,\n"
+"ein neues Umfrageergebnis ist unter %s abrufbar.\n"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:80
+msgid "Survey Result"
+msgstr "Umfrageergebnis"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:84
+msgid "Thanks for taking the survey. You input is very valuable to us.<br />If you want, you can attach your name to your survey answers. If you want the result to be anonymous, just ignore this form."
+msgstr ""
+"Vielen Dank für die Teilnahme an dieser Umfrage. Ihre Mithilfe ist uns sehr wichtig. Wenn Sie möchten, können Sie und Ihren Namen und die Email-Adresse mitteilen. Wir können Sie dann über die Ergebnisse der Umfrage informieren.\n"
+"Wenn Sie lieber anonym bleiben möchten, lassen Sie die Felder einfach leer."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:87
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:29
+msgid "Name"
+msgstr "Name"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:88
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:30
+msgid "Email"
+msgstr "Email"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:89
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:152
+msgid "Submit Survey"
+msgstr "Umfrage abschicken"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/show_survey.php:150
+msgid "Next"
+msgstr "Nächste"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/responses.php:21
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:18
+msgid "Survey '"
+msgstr "Umfrage"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/responses.php:21
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:18
+msgid "' Responses"
+msgstr "s Antwort"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/responses.php:39
+msgid "Answer"
+msgstr "Antwort"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/responses.php:40
+msgid "Votes"
+msgstr "Stimmen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/responses.php:41
+msgid "Vote Count/Percentage"
+msgstr "Stimmenanzahl %"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:12
+msgid "Result Deleted."
+msgstr "Ergebnis gelöscht."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:31
+msgid "Answered On"
+msgstr "Beantwortet am"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:64
+msgid "Show"
+msgstr "Anzeigen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:72
+msgid "No Responses found."
+msgstr "Keine Reaktionen vorhanden."
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:97
+msgid "Export to CSV"
+msgstr "CSV Export"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:98
+msgid "All Responses"
+msgstr "Alle Antworten"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/individual_responses.php:99
+msgid "All Surveys"
+msgstr "Alle Umfragen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/surveys.php:21
+msgid "Manage Surveys"
+msgstr "Umfragen verwalten"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/surveys.php:50
+msgid "Surveys Settings"
+msgstr "Umfrageeinstellungen"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/surveys.php:53
+msgid "Cheatin' uh?"
+msgstr "Versuchen Sie zu schummeln?"
+
+#: /var/www/html/Others/Wordpress/wordpress/wp-content/plugins/surveys/surveys.php:54
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben nicht die notwendigen Berechtigungen um die Seite zu betrachten."
+

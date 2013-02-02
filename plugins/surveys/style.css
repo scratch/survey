@@ -1,0 +1,17 @@
+.survey-question, #action-button {
+	display:none;
+}
+
+form.survey-form {
+	text-align:left;
+}
+
+.multi-question .survey-question {
+	display:block;
+	padding-bottom:5px;
+	border-bottom:1px solid #000;
+}
+
+.question-content {
+	margin-top:20px;
+}
